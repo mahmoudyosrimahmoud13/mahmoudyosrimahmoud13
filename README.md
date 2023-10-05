@@ -2,7 +2,8 @@
 - 👀 I’m interested in Data science ,ML.
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Web
-- 📫 How to reach me ...
+- 📫 How to reach me [Linkedin]([url_here](https://www.linkedin.com/in/mahmoud-yosri-b30a89212/))
+
 
 <!---
 mahmoudyosrimahmoud13/mahmoudyosrimahmoud13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
