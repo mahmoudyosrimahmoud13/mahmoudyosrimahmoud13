@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mahmoud Yosri
 - 👀 I’m interested in Data science ,ML.
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on Web
+- 👽 I’m looking to collaborate on Web
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/mahmoud-yosri-b30a89212/)
 
 
