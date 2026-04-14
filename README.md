@@ -16,7 +16,7 @@ Currently, I’m deep in the weeds of **Machine Learning** and **Data Science**,
 * **Intelligence:** **Machine Learning** (Trying to make the software a bit smarter).
 
 ### 🧪 What I'm up to:
-* **ML Experiments:** Breaking models to see how they tick and rebuilding them better.
+* **ML Experiments:** Breaking models to see how they tick and rebuilding them better
 * **Full-Stack Projects:** Connecting high-performance Flutter apps to FastAPI back-ends.
 * **Open for:** Collaborating on anything useful. If it solves a real problem, I'm interested.
 
