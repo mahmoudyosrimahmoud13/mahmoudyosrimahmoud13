@@ -8,6 +8,7 @@ I build whole products, from the model to the screen: **Python** and **FastAPI**
 
 <p align="center">
   <a href="https://mahmoudyosrimahmoud13.github.io"><b>🌐 Portfolio</b></a> ·
+  <a href="https://mahmoudyosrimahmoud13.github.io/cv/Mahmoud_Yosri_Python_CV.pdf"><b>📄 Python CV</b></a> ·
   <a href="https://mahmoudyosrimahmoud13.github.io/cv/Mahmoud_Yosri_ML_CV.pdf"><b>📄 ML CV</b></a> ·
   <a href="https://mahmoudyosrimahmoud13.github.io/cv/Mahmoud_Yosri_Flutter_CV.pdf"><b>📄 Flutter CV</b></a> ·
   <a href="https://www.linkedin.com/in/mahmoud-yosri-b30a89212/"><b>💼 LinkedIn</b></a> ·
