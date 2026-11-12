@@ -31,6 +31,14 @@ Pulls job ads from Telegram channels, WhatsApp groups and job sites, scores ever
 
 **[Read the Argon case study →](https://mahmoudyosrimahmoud13.github.io/argon.html)** · code private while the beta gets ready
 
+### 🟢 inPace: learn at your pace, prove you kept it
+A free desktop app (Windows, Mac, Linux) that walks you through any course step by step and lets someone you trust check that you're keeping up. Milestones are signed with Ed25519 and chained, checking happens by swapping files, and everything stays on your computer. v1.10, open source (MIT), 67 tests on every push.
+`Python` `Starlette` `Jinja` `SQLite` `PyNaCl` `GitHub Actions`
+
+<a href="https://mahmoudyosrimahmoud13.github.io/inpace.html"><img src="https://mahmoudyosrimahmoud13.github.io/img/inpace/home.webp" width="100%" alt="inPace home with Tempo the turtle" /></a>
+
+**[Website](https://mahmoudyosrimahmoud13.github.io/inPace/)** · **[Guide](https://mahmoudyosrimahmoud13.github.io/inPace/guide.html)** · **[Download](https://github.com/mahmoudyosrimahmoud13/inPace/releases/latest)** · **[Source code](https://github.com/mahmoudyosrimahmoud13/inPace)** · **[Case study](https://mahmoudyosrimahmoud13.github.io/inpace.html)**
+
 ### 🟠 Studio: clean, matching product photos, on your own computer
 Drop in ordinary phone photos. Studio removes the background with a small AI model on the CPU, fixes light and colors, and gives every photo the same size, margin and shadow. Fully offline, open source (MIT). Tested on real photos with known problems: dark and blurry photos caught 8 of 8, and one tap on a white spot cuts color error from 10.6 to 3.5.
 `Python` `ONNX Runtime` `IS-Net` `U²-Net` `NumPy` `Pillow` `FastAPI`
