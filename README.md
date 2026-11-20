@@ -82,7 +82,7 @@ An Arabic-first online store for one sanitary ware and plumbing shop in Alexandr
 **[Read the Hydro Alex case study →](https://mahmoudyosrimahmoud13.github.io/hydro-alex.html)**
 
 ### 🟪 CodeNote: a notebook for developers
-Text, code, Markdown and images in one note, on **Android, Windows, Linux and macOS**. v1.5, open source (AGPL), local-only: no account, no cloud.
+Text, code, Markdown and images in one note, on **Android, Windows, Linux and macOS**. Open source (AGPL), local-only: no account, no cloud.
 
 * **58 languages** with real highlighting and their logos, and HTML, CSS and JS that run right from the note.
 * **AI that respects your privacy:** explain code, find bugs, and ask questions answered from your own notes. Works with Claude, any OpenAI-compatible API, or fully offline with Ollama or LM Studio.
