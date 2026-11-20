@@ -40,7 +40,7 @@ A free app for **Windows, Mac, Linux and Android** that walks you through any co
 * **The Android app is the whole app,** not a lite version: a Flutter shell that runs the same Python server on the phone.
 * In **14 languages** including Arabic, open source (MIT), with **330+ tests** on three systems and signed builds for four on every release.
 
-<a href="https://github.com/mahmoudyosrimahmoud13/inPace/releases"><img alt="Downloads" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmahmoudyosrimahmoud13.github.io%2FinPace%2Fdownloads.json&query=%24.total&label=downloads&color=6fdc9b&labelColor=111111&style=for-the-badge"></a>
+<a href="https://github.com/mahmoudyosrimahmoud13/inPace/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/mahmoudyosrimahmoud13/inPace?style=for-the-badge&logo=github&label=stars&color=6fdc9b&labelColor=111111"></a> <a href="https://github.com/mahmoudyosrimahmoud13/inPace/releases"><img alt="Downloads" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fmahmoudyosrimahmoud13.github.io%2FinPace%2Fdownloads.json&query=%24.total&label=downloads&color=6fdc9b&labelColor=111111&style=for-the-badge"></a>
 
 `Python` `Starlette` `Jinja` `SQLite` `PyNaCl` `Flutter` `serious_python` `GitHub Actions`
 
